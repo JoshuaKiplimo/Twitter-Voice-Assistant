@@ -34,12 +34,14 @@ source.stream.read(numberOfSamples) must return raw single-channel audio data
 
  The project is still in its beginning stages and can be buggy, more updates are coming coming soon
 
-### Screenshots
+### Screenshot 1 
 
 ###### Commands running on the terminal...
 ![screenshot1](/images/screenshot1.png)
 
-###### Final post on twitter
+### Screenshot 2 
+
+#### Final post on twitter through the voice assistant
 ![screenshot2](/images/screenshot2.png)
 
 
